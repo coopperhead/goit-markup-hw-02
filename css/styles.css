@@ -13,6 +13,7 @@ body {
   background-color: var(--white-color);
   color: var(--primary-text-color);
   font-family: Roboto, sans-serif;
+  
 }
 
 ul {
@@ -58,8 +59,8 @@ button {
 
 .address-list .link {
   font-style: normal;
-  color: var(--primary-text-color);
   font-weight: 400;
+  color: var(--primary-text-color);
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -173,8 +174,7 @@ footer .text {
 /* Filters-btn */
 
 .filters .filters-btn {
-  font-family: "Roboto";
-  font-style: normal;
+
   color: var(--primary-brand-color);
   background: var(--light-color);
   font-weight: 500;
@@ -185,8 +185,7 @@ footer .text {
 
 .filters .filters-btn:hover,
 .filters .filters-btn:focus {
-  font-family: "Roboto";
-  font-style: normal;
+
   color: var(--white-color);
   background: var(--accent-color);
   font-weight: 500;
