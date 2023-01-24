@@ -26,6 +26,7 @@ ul {
 
 button {
   border: none;
+  cursor: pointer;
 }
 
 /* logo */
