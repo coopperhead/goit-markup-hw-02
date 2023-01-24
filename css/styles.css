@@ -82,6 +82,7 @@ button {
   color: var(--white-color);
   font-weight: 700;
   font-size: 56px;
+  text-align: center;
   line-height: 1.07;
 }
 
@@ -132,6 +133,10 @@ button {
 }
 
 /* section_4 Our Team */
+
+.team-section {
+  background-color: var(--light-color);
+}
 
 .team-list .title {
   color: var(--title-text-color);
